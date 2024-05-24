@@ -2,4 +2,4 @@
 It is My Repository 
 <br>
 Author Name- Kushal Manna(BCA)
-This is the git & Github 
+This is the git 
